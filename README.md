@@ -1,5 +1,5 @@
 
-# 💫 About Me  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shuhab-siddigi/) 
+# 💫 About Me
 I am a friendly and accommodating person, deeply focused on achieving results. I value structure and thrive on solving problems. I welcome collaborative contributions, as I believe in leveraging collective strengths to achieve goals. My career began in sales, driven by my desire to help. But my passion led me to the field of engineering, captivated by the intricacies of electronic devices and their operation. Through my journey, I've acquired expertise in various programming languages and software development principles. This has equipped me with a versatile "backpack" of skills, enabling me to tackle complex tasks of any nature.
 
 ## 💻 Tech Stack:
